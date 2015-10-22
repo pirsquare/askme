@@ -2,9 +2,9 @@
 Data files for AskMe. Changes to source data goes here.
 
 ## Use Case
-Try using devops tools like docker/packer/ansible to provision a cloud server with digitalocean. On docker it says you need to provide `image`, `region` and `size`. So you tried to google for accepted values but wait, the only way to retrieve that is to use digitalocean's api.
+Try using devops tools like docker/packer/ansible to provision a cloud server with digitalocean. [On docker's page](https://docs.docker.com/machine/drivers/digital-ocean/) it says you need to provide `image`, `region` and `size`. So you tried to google for accepted values but wait, the only way to retrieve that is to use digitalocean's api.
 
-What if you want to use docker/packer/ansible but don't ~~want to~~ have the time learn digitalocean's api? Try [AskMe](https://github.com/pirsquare/askme)
+What if you want to use docker/packer/ansible but don't ~~want~~ have the time to learn digitalocean's api? Try [AskMe](https://github.com/pirsquare/askme)
 
 ## Client Libraries
 [NodeJS](https://github.com/pirsquare/askme-node)
