@@ -8,6 +8,7 @@ What if you want to use docker/packer/ansible but don't ~~want~~ have the time t
 
 ## Client Libraries
 [NodeJS](https://github.com/pirsquare/askme-node)
+[Golang](https://github.com/pirsquare/askme-golang)
 
 ## Supported Cloud Providers
 - AWS
