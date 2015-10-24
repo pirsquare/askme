@@ -7,8 +7,8 @@ Try using devops tools like docker/packer/ansible to provision a cloud server wi
 What if you want to use docker/packer/ansible but don't ~~want~~ have the time to learn digitalocean's api? Try [AskMe](https://github.com/pirsquare/askme)
 
 ## Client Libraries
-[NodeJS](https://github.com/pirsquare/askme-node)
-[Golang](https://github.com/pirsquare/askme-golang)
+- [NodeJS](https://github.com/pirsquare/askme-node)
+- [Golang](https://github.com/pirsquare/askme-golang)
 
 ## Supported Cloud Providers
 - AWS
