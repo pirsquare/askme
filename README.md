@@ -11,6 +11,7 @@ What if you want to use docker/packer/ansible but don't ~~want~~ have the time t
 - [Golang](https://github.com/pirsquare/askme-golang)
 - [Python](https://github.com/pirsquare/askme-python)
 - [Shell](https://github.com/pirsquare/askme-shell)
+- [Windows CMD](https://github.com/pirsquare/askme-cmd)
 
 ## Supported Cloud Providers
 - AWS
